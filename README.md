@@ -1,3 +1,3 @@
 #Usage
 
->ZipPassowrdBruteForce.py zipfile.zip dictionary.txt
+### ~$ZipPassowrdBruteForce.py zipfile.zip dictionary.txt
