@@ -1,1 +1,3 @@
-This repository basically contains tools I made to get work done in Security.
+#Usage
+
+>ZipPassowrdBruteForce.py zipfile.zip dictionary.txt
