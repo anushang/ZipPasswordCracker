@@ -1,6 +1,5 @@
 import zipfile as z
 import sys
-import threading import Thread
 if len(sys.argv)==3:
    zip=sys.argv[1]
    dict=sys.argv[2]
